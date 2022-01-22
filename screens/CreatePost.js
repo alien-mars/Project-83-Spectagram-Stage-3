@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View, ScrollView, TextInput, SafeAreaView, Platform, StyleSheet, StatusBar} from 'react-native';
+import { Text, View, ScrollView, TextInput, SafeAreaView, Platform, StyleSheet, StatusBar, Image} from 'react-native';
 import DropDownPicker from "react-native-dropdown-picker";
 import { RFValue } from 'react-native-responsive-fontsize';
 
